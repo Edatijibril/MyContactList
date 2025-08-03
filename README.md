@@ -31,7 +31,7 @@ A simple yet fully functional **one-page contact management system** built using
 ---
 
 ## 🛠️ Technologies Used
-- **Frontend:** ASP.NET Web Forms (HTML, CSS, ASPX controls)
+- **Frontend:** ASP.NET Web Forms (HTML, CSS,JavaScript, ASPX controls)
 - **Backend:** C# (.NET Framework)
 - **Database:** Microsoft SQL Server (or SQL Server Express)
 - **Data Access:** ADO.NET (SqlConnection, SqlCommand, etc.)
